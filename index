@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tietosuojakäytäntö – Hiihtokilpailun Ajanotto</title>
+  <style>
+    body { font-family: system-ui, sans-serif; line-height: 1.6; max-width: 800px; margin: 2em auto; padding: 0 1em; }
+    h1, h2 { color: #1a202c; }
+    h1 { margin-bottom: 0.2em; }
+    p, ul { margin-bottom: 1em; }
+    ul { padding-left: 1.2em; }
+    a { color: #3182ce; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Tietosuojakäytäntö</h1>
+  <p><strong>Viimeisin päivitys:</strong> 2. toukokuuta 2025</p>
+
+  <h2>1. Johdanto</h2>
+  <p>Tämä tietosuojakäytäntö selittää, miten <strong>Hiihtokilpailun Ajanotto</strong> -sovellus (“Sovellus”, “me”) kerää, käyttää ja suojaa käyttäjien (“sinä”, “käyttäjä”) tietoja.</p>
+
+  <h2>2. Kerättävät tiedot</h2>
+  <p>Sovellus ei kerää tai tallenna mitään henkilökohtaisesti tunnistettavia tietoja (esim. nimiä, sähköpostiosoitteita tai paikannustietoja). Kaikki ajanotot ja kilpailijalistat säilytetään ainoastaan laitteen omassa tallennustilassa.</p>
+
+  <h2>3. Käyttötarkoitus</h2>
+  <ul>
+    <li><strong>Ajanotto ja väliajat:</strong> Sovellus tallentaa kunkin kilpailijan numeron ja siihen liittyvän ajan, jotta voit seurata kilpailun etenemistä.</li>
+    <li><strong>Manuaalinen syöttö ja lista:</strong> Käyttäjä voi liittää oman kilpailijalistan tai käyttää oletuslistaa. Nämä tiedot säilyvät vain paikallisesti.</li>
+  </ul>
+
+  <h2>4. Kolmannet osapuolet</h2>
+  <p>Sovellus ei jaa, myy eikä luovuta tietoja kolmansille osapuolille. Emme käytä analytiikka‐ tai mainospalveluja.</p>
+
+  <h2>5. Säilytys ja turvallisuus</h2>
+  <ul>
+    <li><strong>Paikallinen tallennus:</strong> Data tallentuu sovelluksen dokumenttihakemistoon käyttäjän laitteella.</li>
+    <li><strong>Turvallisuus:</strong> Emme tarjoa erillistä salausta, mutta iOS:n oma laitteen suojaus (lukitus, iCloud-varmuuskopiointi) kattaa myös sovelluksen tiedostot.</li>
+  </ul>
+
+  <h2>6. Lasten yksityisyys</h2>
+  <p>Sovellus ei ole tarkoitettu alle 13-vuotiaille lapsille eikä se kerää heidän henkilötietojaan.</p>
+
+  <h2>7. Muutokset tietosuojakäytäntöön</h2>
+  <p>Voimme päivittää tätä tietosuojakäytäntöä ajoittain. Uusimmasta versiosta ilmoitetaan päivämäärällä tämän dokumentin alussa.</p>
+
+  <h2>8. Yhteystiedot</h2>
+  <p>Jos sinulla on kysyttävää tietosuojasta, ota yhteyttä:</p>
+  <ul>
+    <li>Sähköposti: <a href="mailto:support@esimerkki.fi">support@esimerkki.fi</a></li>
+    <li>Verkkosivu: <a href="https://esimerkki.fi/support">https://esimerkki.fi/support</a></li>
+  </ul>
+</body>
+</html>
